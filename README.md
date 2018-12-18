@@ -2,4 +2,4 @@
 
 Belajar Layout di Flutter
 
-![Linear Layout Flutter](https://imgur.com/a/SpcHt7H)
+![Linear Layout Flutter](https://i.imgur.com/PrMueTO.png)
